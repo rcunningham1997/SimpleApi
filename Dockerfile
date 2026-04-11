@@ -1,5 +1,5 @@
 FROM node:18
-RUN npm ci --only=production
+RUN npm ci --omit=dev
 ENV PORT=3000
 EXPOSE 3000
 CMD ["node", "main.js"]

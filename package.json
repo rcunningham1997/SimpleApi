@@ -1,0 +1,23 @@
+{
+  "name": "simpleapi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/rcunningham1997/SimpleApi#readme",
+  "bugs": {
+    "url": "https://github.com/rcunningham1997/SimpleApi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcunningham1997/SimpleApi.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
